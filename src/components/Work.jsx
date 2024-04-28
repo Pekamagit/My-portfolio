@@ -67,7 +67,7 @@ JS & CSS Application
 React JS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='matochcryptos.netlify.app'>
+                            <a href='https://ekamaportfolio.netlify.app'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
                             <a href='https://github.com/Pekamagit/react-tailwind-project.git'>
