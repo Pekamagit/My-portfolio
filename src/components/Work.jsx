@@ -39,7 +39,7 @@ React JS Application
 
 
                 <div 
-                style={{backgroundImage: `url(${Linkedin})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                style={{backgroundImage: `url(${Weather})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
  {/* Hover Effects */}
                  <div className='opacity-0 group-hover:opacity-100'>
@@ -59,7 +59,7 @@ React JS Application
 
 
                 <div 
-                style={{backgroundImage: `url(${Weather})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                style={{backgroundImage: `url(${LinkedIn})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
 
                   
