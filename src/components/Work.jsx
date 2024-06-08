@@ -2,6 +2,7 @@ import React from 'react'
 import Linkedin from '../assets/Linkedin.png'
 import crypto from '../assets/crypto.png'
 import todoList from '../assets/todoList.png'
+import Weather from '../assets/Weather.png'
 
 
 const Work = () => {
@@ -58,7 +59,7 @@ React JS Application
 
 
                 <div 
-                style={{backgroundImage: `url(${Linkedin})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                style={{backgroundImage: `url(${Weather})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
 
                   
